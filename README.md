@@ -5,7 +5,9 @@
 **Matriculation:** 1302798
 
 A basic strategy game based upon the likes of Cybernations and Tribal Wars.
-Each player starts with a few workers and farmers which give them a basic income every time a 'turn' takes place
+
+Each player starts with a few workers and farmers which give them a basic income every time a 'turn' takes place.
+
 Each turn is a cron-job ran to carry out adding an income of gold and food to each user
 
 ## Functionality

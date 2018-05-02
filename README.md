@@ -10,6 +10,8 @@ Each player starts with a few workers and farmers which give them a basic income
 
 Each turn is a cron-job ran to carry out adding an income of gold and food to each user
 
+They then use that food to purchase more workers or farmers. They can also purchase warriors and defenders for attacking other players or defending against them.
+
 ## Functionality
 
 Outlined below is a list of the functionality that has been implemented.

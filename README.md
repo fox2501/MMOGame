@@ -1,4 +1,4 @@
-# MMOGame
+# BasicCraft
 
 **Author:** Liam Stewart
 
